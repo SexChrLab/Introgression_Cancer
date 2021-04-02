@@ -1,0 +1,19 @@
+{
+  "population": ["EUR", "ASN"],
+  "chromosomes":[
+    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10",
+    "11", "12", "13", "14", "15", "16", "17", "18", "19", "20",
+    "21", "22"
+  ],
+
+  "scratchdir": "/scratch/amtarave/introgression_pilot/elife/introg_analyses_TCGA_exome/tcga_vs_1000g/",
+  "tcgaVCFdir": "/scratch/amtarave/introgression_pilot/elife/TCGA_exome_processing/vcfs/",
+  "tcgaVCFfn": "ALL.chrs.tcga.exome.normal.GRCh38.gatk.called.biallelic.snps.samples.renamed.QUAL30.FMISSING0.1_liftover_hg38ToHg19_no_chr.vcf.gz",
+  "tagdir": "/scratch/amtarave/introgression_pilot/elife/nead_sites_tcga/tag_snps/introgressed_tag_snp_frequencies/",
+
+  "introHapsDir": "/home/amtarave/projects/introgression_pilot/eLife_pilot/vernot_etal_2016/introgressed_haplotypes/",
+  "1000gVCFdir": "/scratch/amtarave/introgression_pilot/elife/nead_sites_tcga/1000g_vcfs/",
+  
+  "ncbiGeneCoorDif": "/scratch/amtarave/introgression_pilot/elife/phastCons/ncbi_bed_files_genes/",
+  "ncbiGeneCoorSuffix": ".human.GRCh37.GenesAndGenePredictions.NCBIRefSeq.genes.sorted.bed"
+}
